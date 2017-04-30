@@ -39,3 +39,4 @@ could break something?
 Now that you have your workspace set up, what do you want to try using Git for?
 
     Version control for my android project
+Version control for my android project
